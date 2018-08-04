@@ -1,7 +1,5 @@
 haha
 
-
-
 git reset HEAD~2 // 日志回退2个版本，但代码未变
 
 git checkout -- <文件或目录> //放弃当前的数据改动
